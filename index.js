@@ -1,1 +1,1 @@
-console("hell");
+console("help");
